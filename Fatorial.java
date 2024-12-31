@@ -1,5 +1,5 @@
 
-//Crie um programa que solicite ao usuário um número e calcule o fatorial desse número.
+//Crie um programa que solicite ao usuário um número e calcule o fatorial desse número...
 import java.util.Scanner;
 
 public class Fatorial {

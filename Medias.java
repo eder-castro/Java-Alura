@@ -1,7 +1,7 @@
 public class Medias {
     public static void main(String[] args) {
         // 1-Crie um programa que realize a média de duas notas decimais e exiba o
-        // resultado
+        // resultado...
         double n1 = 5.7;
         double n2 = 7.8;
         double media = (int) (n1 + n2) / 2;
